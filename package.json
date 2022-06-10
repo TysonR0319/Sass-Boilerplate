@@ -1,0 +1,22 @@
+{
+  "name": "sass-boilerplate",
+  "version": "1.0.0",
+  "description": "[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node-sass Sass/index.scss index.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TysonR0319/Sass-Boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TysonR0319/Sass-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/TysonR0319/Sass-Boilerplate#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
